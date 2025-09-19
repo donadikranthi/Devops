@@ -4,3 +4,4 @@
  echo "please enter your PIN number:"
 
 read pin_number
+ echo "PIN entered is:"
