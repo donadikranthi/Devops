@@ -4,3 +4,7 @@ echo "All variables passed to the scripts: $@"
 echo "All variables passed to the scripts: $*"
 
 echo script name:$0
+
+echo current dircetory:$PWD
+
+echo Home dircetory of user:$HOME
